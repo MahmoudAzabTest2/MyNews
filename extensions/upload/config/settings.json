@@ -1,0 +1,9 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "mahmoudazabtest2",
+    "api_key": "182125893565713",
+    "api_secret": "9L9ZTt9Lp1Pb230EHYmHicHP0z0"
+  }
+
+}

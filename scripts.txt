@@ -1,0 +1,66 @@
+npm install -g strapi@beta
+npm install -g strapi@3.5.4
+cd D:\src\exp\strapi\Dev Dizer\MyNews
+yarn develop
+npms
+	npx create-strapi-app MyNews
+	npm i strapi-provider-upload-cloudinary@3.4.5 --save
+	npm run strapi --install documentation --save
+yarns
+	yarn create strapi-app@3.5.4 MyGrocery
+	yarn develop Or yarn start Or yarn build Or yarn strapi
+auths
+	MahmoudAzabTest2
+	mahmoudazabtest2
+	mahmoud.azab.test2@gmail.com
+	Te$t0164052137
+
+urls
+	https://mail.google.com/mail/u/0/#inbox
+	https://cloudinary.com/console/c-a6dc9407b4220e58fee25cd0d0f098/welcome
+	https://dashboard.heroku.com/apps
+	https://github.com/
+
+cloudinarys
+	mahmoudazabtest2
+	182125893565713
+	9L9ZTt9Lp1Pb230EHYmHicHP0z0
+	CLOUDINARY_URL=cloudinary://182125893565713:9L9ZTt9Lp1Pb230EHYmHicHP0z0@mahmoudazabtest2
+
+mongos
+	MyNews
+  cluster0.noxdk.mongodb.net
+	trye
+	27017
+	Admin
+	P@$$W0rd
+	Yes
+
+	mongodb+srv://Admin:P@$$W0rd@cluster0.noxdk.mongodb.net/MyNews	?	retryWrites=true&w=majority
+
+githubs
+	Control Panel\User Accounts\Credential Manager
+	https://github.com/strapi/strapi
+	MahmoudAzabTest2
+	echo "# MyNews" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/MahmoudAzabTest2/MyNews.git
+	git push -u origin main
+
+herokus
+	my-news-test
+
+uris
+	http://locahost:1337/admin/auth/register
+	http://localhost:1337/articles
+	http://localhost:1337/categories
+postman 
+	get
+		http://localhost:1337/articles
+		http://localhost:1337/articles/1
+	put
+	post
+	delete
